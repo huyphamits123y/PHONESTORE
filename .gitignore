@@ -1,7 +1,13 @@
 .env
-node_modules
-build
-dist
+node_modules/
+build/
+dist/
 npm-debug.log*
+
+# FE and BE specific
+MOBILEPHONE-FE/node_modules
 MOBILEPHONE-FE/.env
+git add MOBILEPHONE-FE/* MOBILEPHONE-FE/**/* MOBILEPHONE_BE/* MOBILEPHONE_BE/**/*
+
+MOBILEPHONE_BE/node_modules
 MOBILEPHONE_BE/.env
