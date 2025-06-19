@@ -1,0 +1,7 @@
+.env
+node_modules
+build
+dist
+npm-debug.log*
+MOBILEPHONE-FE/.env
+MOBILEPHONE_BE/.env
